@@ -13,7 +13,7 @@
 ## 🌟 **About Me**
 
 <p align="center">
-  <img src="https://cdn.phaser.io/images/logo/phaser-logo.png"/>
+  <img src="https://cdn.phaser.io/images/logo/phaser-logo.png" width="80%"/>
 </p>
 
 **Hi, I'm Muriko!**
