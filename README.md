@@ -83,10 +83,6 @@
 
 <img src="https://skillicons.dev/icons?i=docker,cloudflare" />
 
-### 🎨 **Design Tools**
-
-<img src="https://skillicons.dev/icons?i=canva" />
-
 </td>
 </tr>
 </table>
