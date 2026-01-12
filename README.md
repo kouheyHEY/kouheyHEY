@@ -1,12 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muriko+%F0%9F%91%8B;Software+Developer+%F0%9F%9A%80;Code+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
@@ -17,19 +9,21 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,react" width="100" height="100" alt="Skills" />
-<br><strong>Developer</strong>
+<img src="https://skillicons.dev/icons?i=ts,js,php,python" width="100" height="100" alt="Skills" />
+<br><strong>Game & Web Developer</strong>
 </td>
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm Muriko!**
 
-💻 **Software Developer** passionate about creating elegant code
+🎮 **Browser Game Developer** using Phaser  
+💻 **Web App Developer** with Vue.js
+
+**Main Languages:** TypeScript, JavaScript, PHP, Python
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building innovative applications  
 ☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Crafting beautiful user experiences
+🎯 **Goal:** Creating engaging games and beautiful web experiences
 
 </td>
 </tr>
@@ -91,20 +85,8 @@
 
 ---
 
-## 💭 **Random Dev Quote**
+**⭐ From [Muriko](https://github.com/kouheyHEY) with ❤️**
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-</div>
+_"Code is poetry, let's create together! 🚀"_
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  **⭐ From [Muriko](https://github.com/kouheyHEY) with ❤️**
-  
-  *"Code is poetry, let's create together! 🚀"*
 </div>
