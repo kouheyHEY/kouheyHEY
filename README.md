@@ -40,6 +40,11 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
+  <p align="left">
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouheyHEY&layout=compact&show_icons=true&theme=onedark" />
+    <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kouheyHEY&theme=onedark&show_icons=true" />
+  </p>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kouheyHEY&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
@@ -55,30 +60,30 @@
 
 ### 💻 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,ruby" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 
 ### 🎨 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vue,html,css" />
+<img src="https://skillicons.dev/icons?i=vue,html,css" />
 
 ### 🔧 **Development Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️ **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgresql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgresql,sqlite,fastapi" />
 
 ### ☁️ **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=docker" />
 
 ### 🎨 **Design Tools**
 
-<img src="https://skillicons.dev/icons?i=figma,xd" />
+<img src="https://skillicons.dev/icons?i=canva" />
 
 </td>
 </tr>
