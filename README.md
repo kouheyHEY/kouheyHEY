@@ -43,11 +43,9 @@
 
 <div align="center">
   <p align="left">
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats-1i631key0-kouheyheys-projects.vercel.app/api/top-langs/?username=kouheyHEY&layout=compact&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-    <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-1i631key0-kouheyheys-projects.vercel.app/api?username=kouheyHEY&theme=onedark&show_icons=true&include_all_commits=true&count_private=true" />
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats-1i631key0-kouheyheys-projects.vercel.app/api?username=kouheyHEY&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
+    <img alt="GitHub Stats" height="150px" src="github-readme-stats-1i631key0-kouheyheys-projects.vercel.app/api/top-langs/?username=kouheyHEY&layout=compact&theme=github_dark&count_private=true&include_all_commits=true" />
   </p>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kouheyHEY&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
 <div align="center">
