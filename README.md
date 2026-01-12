@@ -12,34 +12,16 @@
 
 ## 🌟 **About Me**
 
-<div align="center">
+<p align="center">
+  <img src="https://cdn.phaser.io/images/logo/phaser-logo.svg" width="200" alt="Phaser Logo" />
+</p>
 
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://cdn.phaser.io/images/logo/phaser-logo.svg" width="140" alt="Phaser Logo" />
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,php,python" width="110" alt="Languages" />
-<br><strong>Game & Web Developer</strong>
-</td>
-<td width="400" align="left">
+**Hi, I'm Muriko!**
 
-### 👋 **Hi, I'm Muriko!**
-
-🎮 **Browser Game Developer** using Phaser  
-💻 **Web App Developer** with Vue.js
-
-**Main Languages:** TypeScript, JavaScript, PHP, Python
-
-🌍 **Location:** Japan 🇯🇵  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating engaging games and beautiful web experiences
-
-</td>
-</tr>
-</table>
-
-</div>
+-   🎮 Browser game developer focused on Phaser
+-   💻 Web app builder with Vue.js
+-   🧰 Main languages: TypeScript, JavaScript, Python
+-   🌍 Based in Japan; ☕ fueled by coffee; 🎯 aiming to craft engaging games and beautiful web experiences
 
 ## 📊 **GitHub Analytics**
 
