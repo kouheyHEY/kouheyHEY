@@ -88,9 +88,7 @@
 
 ## 🏆 **GitHub Trophies**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kouheyHEY&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💭 **Random Dev Quote**
 
