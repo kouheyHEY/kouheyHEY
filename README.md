@@ -38,7 +38,7 @@
 
 <table align="center">
 <tr>
-<td width="80%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 💻 **Languages**
 
