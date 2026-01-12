@@ -38,7 +38,7 @@
 
 <table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="80%" align="center" valign="top">
 
 ### 💻 **Languages**
 
@@ -66,8 +66,6 @@
 </td>
 </tr>
 </table>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
