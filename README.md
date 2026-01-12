@@ -64,11 +64,11 @@
 
 ### 🎨 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=vue,html,css" />
+<img src="https://skillicons.dev/icons?i=vue,html,css,vite" />
 
 ### 🔧 **Development Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,electron" />
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -79,7 +79,7 @@
 
 ### ☁️ **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=docker,cloudflare" />
 
 ### 🎨 **Design Tools**
 
