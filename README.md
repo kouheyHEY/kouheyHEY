@@ -43,8 +43,8 @@
 
 <div align="center">
   <p align="left">
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats-1i631key0-kouheyheys-projects.vercel.app/api?username=kouheyHEY&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
-    <img alt="GitHub Stats" height="150px" src="github-readme-stats-1i631key0-kouheyheys-projects.vercel.app/api/top-langs/?username=kouheyHEY&layout=compact&theme=github_dark&count_private=true&include_all_commits=true" />
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats-rose-alpha-46.vercel.app/api?username=kouheyHEY&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
+    <img alt="GitHub Stats" height="150px" src="github-readme-stats-rose-alpha-46.vercel.app/api/top-langs/?username=kouheyHEY&layout=compact&theme=github_dark&count_private=true&include_all_commits=true" />
   </p>
 </div>
 
