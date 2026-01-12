@@ -42,10 +42,8 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <p align="left">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats-rose-alpha-46.vercel.app/api?username=kouheyHEY&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&cache_seconds=86400&timestamp=123456789" />
     <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-rose-alpha-46.vercel.app/api/top-langs/?username=kouheyHEY&layout=compact&theme=github_dark&count_private=true&include_all_commits=true&cache_seconds=86400&timestamp=123456789" />
-  </p>
 </div>
 
 <div align="center">
